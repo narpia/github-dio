@@ -11,7 +11,8 @@ Repositório para armazernar resumos sobre Git e Github
 ## 💻 Resumos das Aulas
 |Aulas | Resumo  |
 |------|---------|
-|Gravando Alterações |[aula]() | 
+|Aula 01 |[Resumo]() | 
+|Aula 02 |[Resumo]() | 
 
  
 
