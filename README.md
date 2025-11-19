@@ -9,7 +9,7 @@ Repositório para armazernar resumos sobre Git e Github
 * [Github doc](https://docs.github.com/pt)
 
 ## 💻 Resumos das Aulas
-|Aulas | Resumos |
+|Aulas | Resumo  |
 |------|---------|
 |Gravando Alterações |[alula]() | 
 
