@@ -20,5 +20,7 @@ Repositório para armazernar resumos sobre Git e Github
 git init
 ```
 ##🔎 Referências:
-* [01]() 
+* [01]()
+
+![narpia's GitHub stats](https://github-readme-stats.vercel.app/api?username=narpia&show_icons=true&theme=radical)
 
